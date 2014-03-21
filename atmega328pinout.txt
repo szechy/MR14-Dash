@@ -27,4 +27,4 @@ D9: XLAT
 D10: BLANK
 D11: MOSI (Master Output, Slave Input)
 D12: MISO (Master Input, Slave Output)
-M13: SLCK (Serial Clock (from master))
+M13: SLgitCK (Serial Clock (from master))

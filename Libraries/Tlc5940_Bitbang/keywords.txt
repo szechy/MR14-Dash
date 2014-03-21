@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Tlc5940_Bitbang
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Tlc5940_Bitbang         KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init            KEYWORD2
+clear           KEYWORD2
+update          KEYWORD2
+set             KEYWORD2
+get             KEYWORD2
+setAll          KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Tlc             KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NUM_TLCS        LITERAL1
